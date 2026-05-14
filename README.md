@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I am a customer-centric product professional with a strong bias for action, dedicated to identifying and fulfilling customer needs, possessing 3+ years of experience in the SaaS industry, with a proven track record of effectively collaborating across product and business functions to deliver impactful and value-driven solutions.
+
+💡 Areas of Expertise:
+✔ Agile
+✔ Market Research
+✔ Backlog Management
+✔ Discovery
+✔ Prioritization
+✔ Roadmapping
+
+🚀 Key Skills:
+Product Stack: Jira, Confluence, Salesforce, Dynamics 365, Asana, Miro, Figma
+ 
+📧 Email: faizanzafar40@gmail.com
+📅 Schedule a meeting: calendly.com/faizanzafar/15min
 
 
 ## 🌐 Socials:
