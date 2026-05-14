@@ -9,8 +9,7 @@ I am a customer-centric product professional with a strong bias for action, dedi
 ✔ Prioritization
 ✔ Roadmapping
 
-🚀 Key Skills:
-Product Stack: Jira, Confluence, Salesforce, Dynamics 365, Asana, Miro, Figma
+🚀 Key Skills: Jira, Confluence, Claude Code, Figma, Salesforce, Dynamics 365, Asana, Miro
  
 📧 Email: faizanzafar40@gmail.com
 📅 Schedule a meeting: calendly.com/faizanzafar/15min
