@@ -34,7 +34,7 @@ I am a customer-centric product professional with a strong bias for action, dedi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=faizanzafar40&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
-## ✍️ Random Dev Quote
+## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
