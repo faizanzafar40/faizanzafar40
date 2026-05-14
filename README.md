@@ -3,7 +3,7 @@ I am a customer-centric product professional with a strong bias for action, dedi
 
 💡 Areas of Expertise:\
 ✔ Agile\
-✔ Market Research
+✔ Market Research\
 ✔ Backlog Management\
 ✔ Discovery\
 ✔ Prioritization\
