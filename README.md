@@ -1,7 +1,7 @@
 ## 💫 About Me:
 I am a customer-centric product professional with a strong bias for action, dedicated to identifying and fulfilling customer needs, possessing 4+ years of experience in the SaaS industry, with a proven track record of effectively collaborating across product and business functions to deliver impactful and value-driven solutions.
 
-💡 Areas of Expertise:\
+💡 Product Expertise:\
 ✔ Agile\
 ✔ Market Research\
 ✔ Backlog Management\
@@ -9,7 +9,7 @@ I am a customer-centric product professional with a strong bias for action, dedi
 ✔ Prioritization\
 ✔ Roadmapping
 
-🚀 Key Skills: Jira, Jira Product Discovery, Confluence, Claude Code, Figma, Salesforce, Dynamics 365, Asana, Miro
+🚀 Product Stack: Jira, Jira Product Discovery, Confluence, Claude Code, Figma, Salesforce, Dynamics 365, Asana, Miro
  
 📧 Email: faizanzafar40@gmail.com\
 📅 Schedule a meeting: calendly.com/faizanzafar/15min
