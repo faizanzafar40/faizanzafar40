@@ -7,7 +7,7 @@ I am a customer-centric product professional with a strong bias for action, dedi
 ✔ Backlog Management\
 ✔ Discovery\
 ✔ Prioritization\
-✔ Roadmapping\
+✔ Roadmapping
 
 🚀 Key Skills: Jira, Confluence, Claude Code, Figma, Salesforce, Dynamics 365, Asana, Miro
  
